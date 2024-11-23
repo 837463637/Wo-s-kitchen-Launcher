@@ -1,0 +1,13 @@
+D:\EFT\C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\EFT\C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\EFT\C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\EFT\C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\EFT\C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainWindow.resources
+D:\EFT\C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainWindow.dje.resources
+D:\EFT\C\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Wo's kitchen.exe.config
+D:\EFT\C\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Wo's kitchen.exe
+D:\EFT\C\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Wo's kitchen.pdb
+D:\EFT\C\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\dje\Wo's kitchen.resources.dll
+D:\EFT\C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\dje\Wo's kitchen.resources.dll
+D:\EFT\C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Wo's kitchen.exe
+D:\EFT\C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Wo's kitchen.pdb
